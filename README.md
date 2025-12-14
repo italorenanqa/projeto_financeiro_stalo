@@ -115,9 +115,9 @@ Edite o arquivo `.env` com suas credenciais:
 DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
 DB_PORT=3306
-DB_DATABASE=transactions_db
-DB_USERNAME=seu_usuario
-DB_PASSWORD=sua_senha
+DB_DATABASE=projeto_financeiro
+DB_USERNAME=root
+DB_PASSWORD=@Enzo123
 ```
 
 ### 5. Executar migrações
