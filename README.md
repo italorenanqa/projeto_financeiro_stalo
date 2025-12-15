@@ -116,9 +116,11 @@ DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
 DB_PORT=3306
 DB_DATABASE=projeto_financeiro
-DB_USERNAME=root
-DB_PASSWORD=@Enzo123
+DB_USERNAME=seu_usuario
+DB_PASSWORD=sua_senha
 ```
+
+> ⚠️ **IMPORTANTE**: Nunca compartilhe suas credenciais de banco de dados em repositórios públicos!
 
 ### 5. Executar migrações
 
